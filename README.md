@@ -1,5 +1,13 @@
-### Hi there 👋
+![Burgir Studio banner](https://user-images.githubusercontent.com/68487952/231051808-73d604e4-0e27-47c9-a2f4-9eb60461d8b6.png)
+# Burgir Studio
+This is my personal page, big projects to come will be uploaded to the [Burgir Studio](https://github.com/BurgirStudio-Official) page. 
 
+### Languages and tools
+<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
+<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<br />
+<br />
 <!--
 **willburgir/willburgir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
