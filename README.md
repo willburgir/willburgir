@@ -30,7 +30,7 @@ Dabbling in DuckyScript for cybersecurity and penetration testing, I'm always in
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](williambourgeois2001)
+- [LinkedIn](in/williambourgeois2001)
 
 ## 📈 Stats
 
