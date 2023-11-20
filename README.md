@@ -35,10 +35,6 @@ Check out [Hak5](https://shop.hak5.org/) to learn more about their mind-blowing 
 
 - [LinkedIn](https://www.linkedin.com/in/williambourgeois2001/)
 
-## 📈 Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=willburgir&show_icons=true&theme=radical)
-
 Feel free to explore my repositories and don't hesitate to reach out. Let's connect and collaborate on exciting projects! 🚀
 
 Happy coding! 👨‍💻
