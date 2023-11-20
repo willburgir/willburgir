@@ -1,6 +1,7 @@
 # Welcome to my GitHub Profile 👋
 
-![Profile Banner](https://user-images.githubusercontent.com/68487952/231051808-73d604e4-0e27-47c9-a2f4-9eb60461d8b6.png)
+![Banner](https://github.com/willburgir/willburgir/assets/68487952/d56bccc0-b6fb-4510-8431-7a57e3e113c0)
+
 
 Hello there! I'm William Bourgeois, an Accounting Technician, CFA Level 1 candidate, and a passionate 3rd Computer Science student.
 I am most interested in data science and its practical application to financial data, but I am also having fun with mobile development and penetration testing in cybersecutity.  
