@@ -9,7 +9,8 @@ I am most interested in data science and its practical application to financial 
 
 - 🔍 I'm currently exploring the vast world of data science with a focus on Python and SQL.
 - 💡 My interest lies in creating innovative solutions that bridge the gap between finance and technology.
-- 🌱 I am constantly learning and growing, with a keen eye on incorporating new technologies into my projects.
+- 🐍 I'm also a [Battlesnake](https://play.battlesnake.com/) player! Check it out, it's so fun!
+- 🥈 [My snake](https://play.battlesnake.com/profile/william_burgir)'s AI program won 2nd place at University of Victoria's tournament in March 2023
 
 ## 💻 Tech Stack
 
@@ -27,6 +28,7 @@ I also have hands-on experience in mobile development using Kotlin and Android S
 
 ### Cybersecurity and Penetration Testing
 Dabbling in DuckyScript for cybersecurity and penetration testing, I'm always intrigued by the ever-evolving landscape of digital security.
+Check out [Hak5](https://shop.hak5.org/) to learn more about their mind-blowing tools and techniques! 
 
 ## 🌐 Connect with Me
 
