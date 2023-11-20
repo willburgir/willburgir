@@ -2,7 +2,8 @@
 
 ![Profile Banner](https://user-images.githubusercontent.com/68487952/231051808-73d604e4-0e27-47c9-a2f4-9eb60461d8b6.png)
 
-Hello there! I'm William Bourgeois, an Accounting Technician, CFA Level 1 candidate, and a passionate 3rd Computer Science student. I thrive on the intersection of finance and technology, and my journey reflects a diverse set of skills and interests.
+Hello there! I'm William Bourgeois, an Accounting Technician, CFA Level 1 candidate, and a passionate 3rd Computer Science student.
+I am most interested in data science and its practical application to financial data, but I am also having fun with mobile development and penetration testing in cybersecutity.  
 
 ## 📚 About Me
 
@@ -19,7 +20,7 @@ Hello there! I'm William Bourgeois, an Accounting Technician, CFA Level 1 candid
 ## 🚀 Projects
 
 ### PortfolioBuilder Program
-One of my current projects involves implementing concepts from Modern Portfolio Theory. The PortfolioBuilder program computes the optimal portfolio composition given a list of asset classes and a risk-free rate. I am excited about the potential of this software to revolutionize portfolio management strategies.
+One of my current projects involves implementing concepts from Modern Portfolio Theory. The PortfolioBuilder program computes the optimal portfolio composition given a list of asset classes and a risk-free rate. I am excited about the potential of this software to improve how I manage my own assets.
 
 ### Mobile Development with Kotlin
 I also have hands-on experience in mobile development using Kotlin and Android Studio. Check out my projects in this space to see how I'm bringing ideas to life on the mobile platform.
