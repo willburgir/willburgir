@@ -5,5 +5,5 @@
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/williambourgeois2001/)
+- [LinkedIn]([https://www.linkedin.com/in/williambourgeois2001/](https://www.linkedin.com/in/bourgeois-william/))
 
